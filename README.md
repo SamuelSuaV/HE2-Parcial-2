@@ -158,6 +158,9 @@ jupyter notebook notebook/Income_Prediction_Neural_Networks.ipynb
 ```
 Debe ejecutarse desde Drive.
 
+### 4. Permitir acceso a Drive
+El repositorio debe colocarse en la sección de "Mis Archivos de OneDrive". Cuando se corra el notebook, se debe permitir el acceso.
+
 ## 🔍 Hallazgos Clave
 
 ### Procesamiento de Datos
